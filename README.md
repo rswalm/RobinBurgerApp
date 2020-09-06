@@ -1,2 +1,0 @@
-# RobinBurgerApp
-Burger Application
