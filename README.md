@@ -9,3 +9,9 @@ Wow burger is a restraunt app that lets users inout the names of burgers they'd 
 ![burger3](Burger3.png)
 ![burger4](Burger4.png)
 ![burger5](Burger5.png)
+
+# Github Repository
+### https://github.com/rswalm/RobinBurgerApp
+
+# Deployed Application (Heroku Link)
+### https://robinburgerapp.herokuapp.com/
