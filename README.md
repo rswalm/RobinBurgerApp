@@ -1,8 +1,11 @@
-Burger App
+# Burger App
 
 I have created a burger logger with MySQL, Node, Express and Handlebars
 
-Wow burger is a restraunt app that lets users inout the names of burgers they'd like to eat.
-Each burger in the burger waiting area also has a "devoured" button. When the user clicks it, the burger will move to the right side of the page. This app will store every burger in a database, whether devoured or not.
+Wow burger is a restraunt app that lets users inout the names of burgers they'd like to eat. A Burger can be add by typing the name of a burger in the typing field and by pressing the "add burger" button, the burger is added to the menu(waiting) area. When a burger is clicked, it is then moved to the "devoured" area. This app will store every burger in a database, whether devoured or not.
 
-im hungry!
+![burger](Burger1.png)
+![burger2](Burger2.png)
+![burger3](Burger3.png)
+![burger4](Burger4.png)
+![burger5](Burger5.png)
