@@ -1,8 +1,12 @@
 var mysql = require("mysql");
+var dotenv = require('dotenv'); 
+dotenv.config();
 var con;
-if (process.env.MJX) {
-    con = mysql.createConnection(process.env.MJX);
+if (process.env.JAWSDB_URL) {
+    console.log('--from env----------------');
+    con = mysql.createConnection(process.env.JAWSDB_URL);
 } else {
+    console.log('----------connecting local---------------');
     con = mysql.createConnection({
         port: 3306,
         host: "localhost",
